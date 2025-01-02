@@ -1,4 +1,4 @@
-# IMEMNet
+# IMEMNet-C
 Designed for multimodal research involving images, music, and musical captions, IMEMNet-C is an extended version of the [IMEMNet](https://github.com/linkAmy/IMEMNet/) dataset. This dataset bridges the gap between modalities by providing additional textual descriptions (musical captions) for music data, enabling deeper exploration of multimodal relationships. This dataset is from Artificial Intelligence for Music workshop at AAAI 2025.
 
 ## Key Features
