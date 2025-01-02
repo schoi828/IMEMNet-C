@@ -12,7 +12,7 @@ Designed for multimodal research involving images, music, and musical captions, 
 
 ## Source Datasets
 IMEMNet-C is composed of four datasets: 
-[DEAM](https://cvml.unige.ch/databases/DEAM/), [IAPS](https://www.imageemotion.org/), and [EMOTIC](https://s3.sunai.uoc.edu/emotic/index.html). To use IMEMNet-C, you must obtain permission and download these datasets.
+[DEAM](https://cvml.unige.ch/databases/DEAM/), [IAPS](https://www.imageemotion.org/), and [EMOTIC](https://s3.sunai.uoc.edu/emotic/index.html). To use IMEMNet-C, you must obtain permission, download these datasets, and follow the license agreements associated with them.
 
 ## Data Format
 ### Image VA CSV
